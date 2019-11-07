@@ -1,0 +1,280 @@
+{
+    "select": [
+        {
+            "id": 1,
+            "title": "Subset 1"
+        },
+        {
+            "id": 2,
+            "title": "Subset 2"
+        },
+        {
+            "id": 3,
+            "title": "Subset 3"
+        },
+        {
+            "id": 4,
+            "title": "Subset 4"
+        }
+    ],
+    "multi": [
+        {
+            "id": 1,
+            "text": "Midnight Census"
+        },
+        {
+            "id": 1,
+            "text": "Scheduled Cath Lab Appointments"
+        },
+        {
+            "id": 1,
+            "text": "Scheduled IR Appointments"
+        },
+        {
+            "id": 2,
+            "text": "Scheduled OR Appointments"
+        },
+        {
+            "id": 2,
+            "text": "Scheduled MRI Appointmets"
+        },
+        {
+            "id": 3,
+            "text": "Average Length Of Stay"
+        },
+        {
+            "id": 4,
+            "text": "Minutes in ED-Treat & Release"
+        },
+        {
+            "id": 5,
+            "text": "MyChart Activations"
+        },
+        {
+            "id": 4,
+            "text": "Minutes in ED-Admitted"
+        },
+        {
+            "id": 4,
+            "text": "Discharged Patients"
+        },
+        {
+            "id": 4,
+            "text": "TeleHealth Encounters"
+        }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "data": [
+                {
+                    "x": "Jan",
+                    "y": 1
+                },
+                {
+                    "x": "Feb",
+                    "y": 2
+                },
+                {
+                    "x": "Mar",
+                    "y": 10
+                },
+                {
+                    "x": "Apr",
+                    "y": 5
+                },
+                {
+                    "x": "May",
+                    "y": 7
+                },
+                {
+                    "x": "Jun",
+                    "y": 10
+                },
+                {
+                    "x": "Jul",
+                    "y": 9
+                },
+                {
+                    "x": "Aug",
+                    "y": 2
+                },
+                {
+                    "x": "Sep",
+                    "y": 1
+                },
+                {
+                    "x": "Oct",
+                    "y": 3
+                },
+                {
+                    "x": "Nov",
+                    "y": 9
+                },
+                {
+                    "x": "Dec",
+                    "y": 8
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "data": [
+                {
+                    "x": "Jan2",
+                    "y": 10
+                },
+                {
+                    "x": "Feb2",
+                    "y": 9
+                },
+                {
+                    "x": "Mar2",
+                    "y": 8
+                },
+                {
+                    "x": "Apr2",
+                    "y": 7
+                },
+                {
+                    "x": "May2",
+                    "y": 6
+                },
+                {
+                    "x": "Jun2",
+                    "y": 5
+                },
+                {
+                    "x": "Jul2",
+                    "y": 4
+                },
+                {
+                    "x": "Aug2",
+                    "y": 3
+                },
+                {
+                    "x": "Sep2",
+                    "y": 2
+                },
+                {
+                    "x": "Oct2",
+                    "y": 1
+                },
+                {
+                    "x": "Nov2",
+                    "y": 10
+                },
+                {
+                    "x": "Dec2",
+                    "y": 9
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "data": [
+                {
+                    "x": "Jan3",
+                    "y": 10
+                },
+                {
+                    "x": "Feb5",
+                    "y": 6
+                },
+                {
+                    "x": "Mar5",
+                    "y": 5
+                },
+                {
+                    "x": "Apr5",
+                    "y": 4
+                },
+                {
+                    "x": "May5",
+                    "y": 3
+                },
+                {
+                    "x": "Jun5",
+                    "y": 2
+                },
+                {
+                    "x": "Jul5",
+                    "y": 1
+                },
+                {
+                    "x": "Aug5",
+                    "y": 2
+                },
+                {
+                    "x": "Sep5",
+                    "y": 3
+                },
+                {
+                    "x": "Oct5",
+                    "y": 4
+                },
+                {
+                    "x": "Nov5",
+                    "y": 5
+                },
+                {
+                    "x": "Dec5",
+                    "y": 6
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "data": [
+                {
+                    "x": "Jan4",
+                    "y": 5
+                },
+                {
+                    "x": "Feb4",
+                    "y": 6
+                },
+                {
+                    "x": "Mar4",
+                    "y": 7
+                },
+                {
+                    "x": "Apr4",
+                    "y": 8
+                },
+                {
+                    "x": "May4",
+                    "y": 9
+                },
+                {
+                    "x": "Jun4",
+                    "y": 10
+                },
+                {
+                    "x": "Jul4",
+                    "y": 9
+                },
+                {
+                    "x": "Aug4",
+                    "y": 8
+                },
+                {
+                    "x": "Sep4",
+                    "y": 7
+                },
+                {
+                    "x": "Oct4",
+                    "y": 6
+                },
+                {
+                    "x": "Nov4",
+                    "y": 5
+                },
+                {
+                    "x": "Dec4",
+                    "y": 4
+                }
+            ]
+        }
+    ]
+}
